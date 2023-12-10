@@ -1,0 +1,71 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1700443012262,1503,GetAPI,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1895,122,3,3,https://reqres.in/api/users,1484,0,672
+1700443013511,661,GetAPI,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1898,122,3,3,https://reqres.in/api/users,659,0,580
+1700443013880,439,GetAPI,200,OK,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1895,122,3,3,https://reqres.in/api/users,358,0,0
+1700443011192,3251,GetAPI,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1895,122,2,2,https://reqres.in/api/users,3250,0,2660
+1700443014201,272,GetAPI,200,OK,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1898,122,2,2,https://reqres.in/api/users,260,0,0
+1700443014456,206,GetAPI,200,OK,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1895,122,1,1,https://reqres.in/api/users,199,0,0
+1700443014752,622,GetAPI,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1898,122,1,1,https://reqres.in/api/users,618,0,431
+1700443015392,159,GetAPI,200,OK,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1898,122,1,1,https://reqres.in/api/users,120,0,0
+1700443016001,525,GetAPI,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1895,122,1,1,https://reqres.in/api/users,513,0,301
+1700443016537,328,GetAPI,200,OK,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[0]]]
+
+****** comparison: 20[[[5]]]
+
+/",1895,122,1,1,https://reqres.in/api/users,207,0,0
